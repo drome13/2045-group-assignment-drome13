@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Accounts Test",
+      "setup": "",
+      "run": "mvn clean test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
