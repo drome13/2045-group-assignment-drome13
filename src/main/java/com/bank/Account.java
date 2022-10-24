@@ -1,22 +1,22 @@
 package com.bank;
 
 public class Account {
-    private double balance = 0;
-    private int rate = 0;
-    private int period = 0;
+    private static double balance = 0;
+    private static int rate = 0;
+    private static int period = 0;
 
 
-    public void setBalance(double balance)
+    public static void setBalance(double balance)
     {
-        this.balance = balance;
+        double newBalance = balance;
     }
-    public void setRate(int rate)
+    public static void setRate(int rate)
     {
-        this.rate = rate;
+        int newRate = rate;
     }
-    public void setPeriod(int period)
+    public static void setPeriod(int period)
     {
-        this.period = period;
+        int newPeriod = period;
     }
 
     public double getBalance()
@@ -28,7 +28,7 @@ public class Account {
     {
         return rate;
     }
-    public int getPeriod()
+    public static int getPeriod()
     {
         return period;
     }
@@ -38,7 +38,7 @@ public class Account {
         int period = getPeriod();
         for(int i = 0; i<= period; i++)
         {
-          int newBalance = balance * rate;
+          int newBalance = (int) (balance * rate);
           setBalance(newBalance);
 
 

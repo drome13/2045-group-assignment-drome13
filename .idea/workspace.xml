@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93958594-556f-45f8-a4b6-803150dab2ce" name="Changes" comment="Individual Assignment Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bank/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bank/CertificateOfDeposit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bank/Checking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bank/Savings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AccountForm.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AccountForm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bank/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bank/Account.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bank/Banker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bank/Banker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bank/Checking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bank/Checking.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW": "true",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW": "true",
     "last_directory_selection": "C:/Users/School/IdeaProjects/2045-individual-assignment-1-drome13/src/main/java/com/bank"
   }
 }]]></component>
@@ -59,6 +61,20 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AccountForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AccountForm" />
+      <module name="IndividualAssignment1_2045" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AccountForm" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -83,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661119333680</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Individual Assignment Commit">
+      <created>1663646250527</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663646250527</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
